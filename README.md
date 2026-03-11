@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://senf.af/education-dashboard"><img src="https://img.shields.io/badge/Live%20Dashboard-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/></a>
   <a href="https://github.com/shamsulhaqHaqyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -153,10 +154,10 @@ Learning materials Grades 7-12
 </td>
 <td align="center" width="33%">
 
-### 🎯 Kankor.af
+### 🎯 Kankoristan.af
 Kankor exam preparation
 
-[![Visit](https://img.shields.io/badge/Visit-kankor.af-green?style=for-the-badge)](https://kankor.af/)
+[![Visit](https://img.shields.io/badge/Visit-kankor.af-green?style=for-the-badge)](https://kankoristan.af/)
 
 </td>
 </tr>
